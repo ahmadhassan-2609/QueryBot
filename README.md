@@ -37,3 +37,13 @@ You can also download the conversation history for future reference.
 * requirements.txt: A list of required Python packages for the project.
 * .env: Configuration file for storing your OpenAI API key.
 * codebasics_faqs.csv: FAQs used by the company staff to provide reponses
+
+## Credits
+
+This project was inspired by the following works:
+
+- [Codebasics Q&A: Question and Answer System Based on Google Palm LLM and Langchain for E-learning company](https://github.com/codebasics/langchain/tree/main/3_project_codebasics_q_and_a) by codebasics
+  
+- [MemoryBot](https://github.com/avrabyt/MemoryBot/tree/298e88d895d20c7e3480653291346e398d8e5f9c) by avrabyt
+  
+- [PersonalMemoryBot](https://github.com/avrabyt/PersonalMemoryBot/tree/d979015b4c472a95241d33b5102d0fb141d46338) by avrabyt
