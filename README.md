@@ -5,7 +5,7 @@ QueryBot is a chatbot designed for the e-learning company CodeBasics (website: c
 CodeBasics offers data-related courses and bootcamps and serves thousands of learners who utilize Discord servers and emails to ask questions. 
 This system provides a Streamlit-based user interface for students to ask questions and receive answers.
 
-![image](https://github.com/ahmadhassan-2609/QueryBot/assets/163967175/b5fcb2bf-da73-4416-86f1-0dd7a52795b8)
+![image](https://github.com/ahmadhassan-2609/QueryBot/assets/163967175/fb183b58-8f96-483e-8ec1-71c5e84235f4)
 
 ## Project Highlights
 * LLM based question and answer system to reduce the workload of human staff
