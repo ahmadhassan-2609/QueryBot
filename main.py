@@ -20,7 +20,10 @@ st.set_page_config(page_title='🤖Querybot', layout='wide')
 
 # Set up the Streamlit app layout
 st.title("QueryBot🤖")
-st.subheader("Powered by LangChain 🦜🔗+ OpenAI + Streamlit")
+st.subheader("Your personal assistant powered by LangChain 🦜🔗 + OpenAI")
+st.markdown("Ask me anything about CodeBasics courses and bootcamps. Just type your question in the box below and let's get started!")
+with st.sidebar:
+        st.write("QueryBot is an LLM-based chatbot which utilizes a curated set of FAQs from the official Codebasics website to answer your questions.")
 
 # Define function to get user input
 def get_text():
